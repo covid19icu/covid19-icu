@@ -8,24 +8,23 @@
 > * Totally based on [996.ICU Repo](https://github.com/996icu/996.ICU).
 > * ICU stands for Intensive Care Unit.
 
-## Usage
 
 
 ## How to blacklist a company
- - Send you pull request with the following procedure:
-   I. Add an folder with your company name bellow the already existing *blacklist/* folder.
-   II. Inside your company's folder add all the gathered proofs (images are preferable)
-   III. OK! you are done! wait for you PR to be approved and merged.
-   
+> * Send you pull request with the following procedure:
+> I. Add an folder with your company name bellow the already existing **blacklist/** folder.
+> II. Inside your company's folder add all the gathered proofs (images are preferable)
+> III. OK! you are done! wait for you PR to be approved and merged.
+
+
 ## How to whitelist a company
- - Use the blacklist procedure above only changing the folder to the *whitelist/* existing one.
+> * Use the blacklist procedure above only changing the folder to the **whitelist/** existing one.
 
 
 
-### 🏠 [Homepage]
+### 🏠 [Homepage](https://github.com/covid19icu/covid19-icu)
 
-## TODO
-> * Create front-end app to expose an hall of fame and hall of shame with filtering options and evidences preview.
+> *TODO: Create front-end app to expose an hall of fame and hall of shame with filtering options, evidences preview and host it on gitgub pages.
 
 ## Author
 
