@@ -1,8 +1,10 @@
 <h1 align="center">Welcome to covid19-icu 👋</h1>
-<p>
+<p align="center">
   <a href="https://twitter.com/covid19icu1">
     <img alt="Twitter: covid19icu1" src="https://img.shields.io/twitter/follow/covid19icu1.svg?style=social" target="_blank" />
-  </a> 
+  </a>
+  [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]()
+  [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 </p>
 
 ## Languages
