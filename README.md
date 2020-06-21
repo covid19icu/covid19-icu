@@ -3,10 +3,13 @@
 </p>
 
 > * This project aims to provide people both a hall of shame (blacklist) and a hall of fame (whitelist) of companies during the harsh covid-19 pandemic.
+> * Thus empowering people with data to find a new job =)
+> * Working without a proven need? ** blacklist then! **
+> * Working with cool guys? ** give them some credit and whitelist them!! **
 > * Feel free to contribute sending pull requests.
 > * Not a tech/IT guy or not familiar with github? Feel free to [send me](mailto:covid19icu@outlook.com) your request. 
 > * Totally based on [996.ICU Repo](https://github.com/996icu/996.ICU).
-> * ICU stands for Intensive Care Unit.
+> * ICU stands for Intensive Care Unit, it's allusive to the risk of needing ICU due to the new covid-19.
 
 
 
