@@ -2,9 +2,9 @@
 <p>
 </p>
 
-> * This project aims to provide people both a hall of shame (blacklist) and a hall of fame (whitelist) of companies during the harsh covid-19 pandemic.
-  * Totally based on [996.ICU Repo](https://github.com/996icu/996.ICU).
-  * ICU stands for Intensive Care Unit
+> * This project aims to provide people both a hall of shame (blacklist) and a hall of fame (whitelist) of companies during >the harsh covid-19 pandemic.
+> * Totally based on [996.ICU Repo](https://github.com/996icu/996.ICU).
+> * ICU stands for Intensive Care Unit
 
 ### 🏠 [Homepage](pag)
 
