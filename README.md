@@ -10,7 +10,7 @@
 
 ## Usage
 
-```sh
+
 ## How to blacklist a company
  - Send you pull request with the following procedure:
    I. Add an folder with your company name bellow the already existing *blacklist/* folder.
@@ -19,7 +19,7 @@
    
 ## How to whitelist a company
  - Use the blacklist procedure above only changing the folder to the *whitelist/* existing one.
-```
+
 
 
 ### 🏠 [Homepage]
