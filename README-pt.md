@@ -2,12 +2,12 @@
 <p>
 </p>
 
-## Languages
+## Linguas
 > * [English](https://github.com/covid19icu/covid19-icu/blob/master/README.md)
 > * [Português](https://github.com/covid19icu/covid19-icu/blob/master/README-pt.md)
 
 
-## Goal
+## Objetivo
 
 > * O Projeto visa a criação de um mural da vergona (blacklist) e um mural da fama (whitelist) de empresas durante a dura pandemia do covid-19. 
 > * Empoderar pessoas com dados para a busca por novos empregos =) 
