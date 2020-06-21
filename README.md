@@ -11,13 +11,13 @@
 ## Usage
 
 ```sh
-* Do you want to blacklist any company?
+## How to blacklist a company
  - Send you pull request with the following procedure:
    I. Add an folder with your company name bellow the already existing *blacklist/* folder.
    II. Inside your company's folder add all the gathered proofs (images are preferable)
    III. OK! you are done! wait for you PR to be approved and merged.
    
-* Do you want to whitelist any company?
+## How to whitelist a company
  - Use the blacklist procedure above only changing the folder to the *whitelist/* existing one.
 ```
 
