@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo ao covid19-icu 👋</h1>
 <p>
-  <a href="https://twitter.com/https:\/\/twitter.com\/covid19icu1" target="_blank">
-    <img alt="Twitter: https:\/\/twitter.com\/covid19icu1" src="https://img.shields.io/twitter/follow/https:\/\/twitter.com\/covid19icu1.svg?style=social" />
+  <a href="https://twitter.com/covid19icu1">
+    <img alt="Twitter: covid19icu1" src="https://img.shields.io/twitter/follow/covid19icu1.svg?style=social" target="_blank" />
   </a>
 </p>
 
