@@ -5,6 +5,7 @@
   </a>
   <img src="https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat" target="_blank" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" target="_blank" /> 
+  <img src="https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=flat" target="_blank" /> 
 </p>
 
 ## Languages
