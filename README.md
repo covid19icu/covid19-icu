@@ -2,14 +2,24 @@
 <p>
 </p>
 
-> desc
+> * This project aims to provide people both a hall of shame (blacklist) and a hall of fame (whitelist) of companies during the harsh covid-19 pandemic.
+> * Feel free to contribute sending pull requests
+> * Totally based on [996.ICU Repo](https://github.com/996icu/996.ICU).
+> * ICU stands for Intensive Care Unit
 
 ### 🏠 [Homepage](pag)
 
 ## Usage
 
 ```sh
-use
+* Do you want to blacklist any company?
+ - Send you pull request with the following procedure:
+   I. Add an folder with your company name bellow the already existing *blacklist/* folder.
+   II. Inside your company's folder add all the gathered proofs (images are preferable)
+   III. OK! you are done! wait for you PR to be approved and merged.
+   
+* Do you want to whitelist any company?
+ - Use the blacklist procedure above only changing the folder to the *whitelist/* existing one.
 ```
 
 ## Author
