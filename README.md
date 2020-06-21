@@ -12,9 +12,9 @@
 
 ## How to blacklist a company
 > * Send you pull request with the following procedure:
-> I. Add an folder with your company name bellow the already existing **blacklist/** folder.
-> II. Inside your company's folder add all the gathered proofs (images are preferable)
-> III. OK! you are done! wait for you PR to be approved and merged.
+> * I. Add an folder with your company name bellow the already existing **blacklist/** folder.
+> * II. Inside your company's folder add all the gathered proofs (images are preferable)
+> * III. OK! you are done! wait for you PR to be approved and merged.
 
 
 ## How to whitelist a company
@@ -24,7 +24,7 @@
 
 ### 🏠 [Homepage](https://github.com/covid19icu/covid19-icu)
 
-> *TODO: Create front-end app to expose an hall of fame and hall of shame with filtering options, evidences preview and host it on gitgub pages.
+> * **TODO**: Create front-end app to expose an hall of fame and hall of shame with filtering options, evidences preview and host it on gitgub pages.
 
 ## Author
 
