@@ -24,21 +24,16 @@
 > * Use the blacklist procedure above only changing the folder to the **whitelist/** existing one.
 
 
-
 ### 🏠 [Homepage](https://github.com/covid19icu/covid19-icu)
 
 > * **TODO**: Create front-end app to expose an hall of fame and hall of shame with filtering options, evidences preview and host it on gitgub pages.
 
-## Author
-
-👤 **covid19icu@outlook.com**
-
-* Website: https://github.com/covid19icu
-* Github: [@covid19icu](https://github.com/covid19icu)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/issues). You can also take a look at the [contributing guide](https://github.com/covid19icu/covid19-icu/pulls).
+> * Spread the word through social medias
+> * Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/issues). You can also take a look at the [contributing guide](https://github.com/covid19icu/covid19-icu/pulls).
+> * ⭐️ this project to make it trend and help more people.
 
 ## Show your support
 
