@@ -7,6 +7,7 @@
 > * [Português](https://github.com/covid19icu/covid19-icu/blob/master/README-pt.md)
 
 
+## Goal
 
 > * This project aims to provide people both a hall of shame (blacklist) and a hall of fame (whitelist) of companies during the harsh covid-19 pandemic.
 > * Thus empowering people with data to find a new job =)
